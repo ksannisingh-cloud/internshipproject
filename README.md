@@ -8,9 +8,9 @@ During this summerinternship.
 2. Healthy  Recipes
 3. Consult online doctor
 4. Personalized diet plan
-5. Live   corona traking map
+5. corona traccking
+6.zumba and yoga
 
-![image](images/homepage.png)
-![image](images/coronatrack.png)
-![image](images/chat.png)
-
+![image](./Screenshot%202026-01-04%20165833.png)
+![image](./Screenshot%202026-01-04%20165852.png)
+![image](./Screenshot%202026-01-04%20165833.png)
